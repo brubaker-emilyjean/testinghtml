@@ -5,13 +5,13 @@
 </head>
 <body>
 <p>And this</p>
-<p><ol>
+<ol>
 <li>test</li>
 <li>test</li>
-</ol></p>
-<p><ul> 
+</ol>
+<ul> 
 <li> test </li>
 <li>test</li>
-</ul></p>
+</ul>
 </body>
 </html>
